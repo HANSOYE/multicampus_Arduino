@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\iot\\arduino\\build\\sketch\\ColorLed.cpp.cpp",
+    "Include": "PWMLed.h",
+    "Includepath": "C:\\Users\\A0501560\\Documents\\Arduino\\libraries\\PWMLed"
+  },
+  {
+    "Sourcefile": "c:\\iot\\arduino\\build\\sketch\\ColorLed.cpp.cpp",
+    "Include": "Led.h",
+    "Includepath": "C:\\Users\\A0501560\\Documents\\Arduino\\libraries\\Led"
+  },
+  {
+    "Sourcefile": "c:\\iot\\arduino\\build\\sketch\\ColorLed.cpp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\A0501560\\Documents\\Arduino\\libraries\\PWMLed\\PWMLed.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\A0501560\\Documents\\Arduino\\libraries\\Led\\Led.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
